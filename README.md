@@ -8,7 +8,6 @@
 -   🥅 2021 Goals: Become proficient and efficient in software development
 
 <br/>
-<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -17,7 +16,6 @@
 
 </details>
 
-<br/>
 <br/>
 
 ### Languages and Tools:
