@@ -28,12 +28,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jborja-oner&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jborja-one&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
 [website]: https://jborja-one.github.io/
 [twitter]: https://twitter.com/magickgmx
-
-//[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/jonathan-borja-1a9959172/
