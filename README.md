@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Magick Spotify Playing" width="350" />(https://open.spotify.com/playlist/3HfGewqFBF3tySXzHbLjcI)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Magick Spotify Playing" width="350" />(https://open.spotify.com/playlist/3HfGewqFBF3tySXzHbLjcI)]
 
 ### Languages and Tools:
 
