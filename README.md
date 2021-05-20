@@ -1,7 +1,7 @@
 ### Hi there, I'm Jonathan Borja 👋
 
 -   🇵🇪 Originally from Perú.
--   🪄 Former professioanl magician
+-   🪄 Former professional magician
 -   📈 Business Entrepreneur
 -   👔 10+ years in Sales and Customer Service
 -   👨‍💻 Currently studying Software Engineering
