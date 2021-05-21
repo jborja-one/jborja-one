@@ -12,6 +12,7 @@
   <img align="left" alt="Jonthan Borja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jborja-one&show_icons=true&hide_border=false&count_private=true" />
 
 <br/>
+<br/>
 
 ### Languages and Tools:
 
