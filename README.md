@@ -34,12 +34,20 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 277a36c23d88ca33732235149cdbf1383b326939
 ### Conect with me:
 
 <a href="https://www.linkedin.com/in/jonathan-borja-1a9959172/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:jborja-one@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://jborja-one.github.io/"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" width=30/></a>&nbsp;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 277a36c23d88ca33732235149cdbf1383b326939
 [website]: https://jborja-one.github.io/
 [twitter]: https://twitter.com/magickgmx
 
