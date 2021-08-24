@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-### Conect with me:
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/jonathan-borja-1a9959172/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:jborja-one@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
