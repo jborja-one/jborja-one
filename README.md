@@ -45,7 +45,7 @@
 
 ### Solo:
 
-<a href="https://github.com/jborja-one/safe-media"><img src="https://safemedia-capstone.s3.us-east-2.amazonaws.com/Public/safemedia-logo-removebg.png" height= '190px' width='250px'/></a>
+<a href="https://github.com/jborja-one/safe-media"><img src="https://safemedia-capstone.s3.us-east-2.amazonaws.com/Public/safemedia-logo-removebg.png" height= '220px' width='250px'/></a>
 <a href="https://github.com/jborja-one/spade-magick"><img src="https://safemedia-capstone.s3.us-east-2.amazonaws.com/Public/logo-txt.png" height= auto width='220px'/></a></group>
 
 
